@@ -1,4 +1,4 @@
-## Foundation-Model-Evaluation-For-Single-cell
+## Foundation-Model-Evaluation-For-Single-Cell
 1. [2024 biorxiv] **Evaluating the role of pre-training dataset size and diversity on single-cell foundation model performance** [[paper]](https://www.biorxiv.org/content/10.1101/2024.12.13.628448v1)
 1. [2024 Nature Machine Intelligence] **Deeper evaluation of a single-cell foundation models** [[paper]](https://www.nature.com/articles/s42256-024-00949-w)
 1. [2024 Nature Methods] **Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis** [[paper]](https://www.nature.com/articles/s41592-024-02235-4)
@@ -11,7 +11,7 @@
 1. [2024 ICLR benchmark DNA FD] **BEND: Benchmarking DNA Language Models on Biologically Meaningful Tasks** [[paper]](https://openreview.net/pdf?id=uKB4cFNQFg)
 
 
-# Foundation-Model-For-Single-cell
+# Foundation-Model-For-Single-Cell
 1. [2025 BioRxiv, Tabular Modeling on single-cell data] **Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling** [[paper](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1)]
 1. [2024 BioRxiv] **Scaling Dense Representations for Single Cell with Transcriptome-Scale Context** [[paper](https://www.biorxiv.org/content/10.1101/2024.11.28.625303v1.full)]
 1. [2024 BioRxiv] **SubCell: Vision foundation models for microscopy capture single-cell biology** [[paper](https://www.biorxiv.org/content/10.1101/2024.12.06.627299v1)]
